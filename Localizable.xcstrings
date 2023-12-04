@@ -1,0 +1,139 @@
+{
+  "sourceLanguage" : "sv",
+  "strings" : {
+    "ADD" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FRAdd"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till"
+          }
+        }
+      }
+    },
+    "More number" : {
+
+    },
+    "More text to translate" : {
+      "comment" : "The top text",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FR more text"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mer text att översätta"
+          }
+        }
+      }
+    },
+    "Request Permission" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réaux perssion"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be om tillåtelse"
+          }
+        }
+      }
+    },
+    "Schedule Notification" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule fr"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schemalägg"
+          }
+        }
+      }
+    },
+    "Show" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "visa fr"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa"
+          }
+        }
+      }
+    },
+    "Tap count: %lld" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap fr: %lld"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tryck antal: %lld"
+          }
+        }
+      }
+    },
+    "This is message" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le message"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detta är meddelande"
+          }
+        }
+      }
+    },
+    "Very funny" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le skoj"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Väldans roligt"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

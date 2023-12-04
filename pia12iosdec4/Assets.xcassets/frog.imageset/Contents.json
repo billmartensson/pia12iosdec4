@@ -1,0 +1,69 @@
+{
+  "images" : [
+    {
+      "filename" : "frog.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "en",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "fr",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "sv",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "sv",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "sv",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

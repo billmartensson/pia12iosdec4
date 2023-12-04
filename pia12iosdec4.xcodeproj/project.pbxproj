@@ -11,6 +11,7 @@
 		E831A1F32B1DD3EE00650BDA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E831A1F22B1DD3EE00650BDA /* ContentView.swift */; };
 		E831A1F52B1DD3F000650BDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E831A1F42B1DD3F000650BDA /* Assets.xcassets */; };
 		E831A1F82B1DD3F000650BDA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E831A1F72B1DD3F000650BDA /* Preview Assets.xcassets */; };
+		E831A2002B1DF92200650BDA /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E831A1FF2B1DF92200650BDA /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		E831A1F22B1DD3EE00650BDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E831A1F42B1DD3F000650BDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E831A1F72B1DD3F000650BDA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E831A1FE2B1DF55D00650BDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E831A1FF2B1DF92200650BDA /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		E831A1E42B1DD3EE00650BDA = {
 			isa = PBXGroup;
 			children = (
+				E831A1FF2B1DF92200650BDA /* Localizable.xcstrings */,
 				E831A1EF2B1DD3EE00650BDA /* pia12iosdec4 */,
 				E831A1EE2B1DD3EE00650BDA /* Products */,
 			);
@@ -51,6 +55,7 @@
 		E831A1EF2B1DD3EE00650BDA /* pia12iosdec4 */ = {
 			isa = PBXGroup;
 			children = (
+				E831A1FE2B1DF55D00650BDA /* Info.plist */,
 				E831A1F02B1DD3EE00650BDA /* pia12iosdec4App.swift */,
 				E831A1F22B1DD3EE00650BDA /* ContentView.swift */,
 				E831A1F42B1DD3F000650BDA /* Assets.xcassets */,
@@ -104,11 +109,13 @@
 			};
 			buildConfigurationList = E831A1E82B1DD3EE00650BDA /* Build configuration list for PBXProject "pia12iosdec4" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = sv;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				sv,
+				fr,
 			);
 			mainGroup = E831A1E42B1DD3EE00650BDA;
 			productRefGroup = E831A1EE2B1DD3EE00650BDA /* Products */;
@@ -127,6 +134,7 @@
 			files = (
 				E831A1F82B1DD3F000650BDA /* Preview Assets.xcassets in Resources */,
 				E831A1F52B1DD3F000650BDA /* Assets.xcassets in Resources */,
+				E831A2002B1DF92200650BDA /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,8 +280,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"pia12iosdec4/Preview Content\"";
+				DEVELOPMENT_TEAM = 6SGQZ32758;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = pia12iosdec4/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -300,8 +310,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"pia12iosdec4/Preview Content\"";
+				DEVELOPMENT_TEAM = 6SGQZ32758;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = pia12iosdec4/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
